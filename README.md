@@ -1,6 +1,6 @@
 ---
 title: Demoapp
-emoji: 🦀
+emoji: 🛡️
 colorFrom: pink
 colorTo: red
 sdk: streamlit
