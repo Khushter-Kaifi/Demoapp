@@ -36,4 +36,4 @@ if user_input:
 #If there is user input, it displays the sentiment and confidence score. 
 # The sentiment is extracted from the "label" field in the result, and the confidence score is extracted from the "score" field.
     st.write(f"Sentiment: {sentiment}")
-    st.write(f"Confidence: {confidence:.2f}")
+    st.write(f"Confidence: {confidence:.2%}")
